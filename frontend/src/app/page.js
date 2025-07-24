@@ -2,15 +2,18 @@
 export default function Home() {
   return (
  <>
-  <div>
-
-  <h1></h1>
+  {/* Side information */}
 
   <div>
-    
-  </div>
 
   </div>
+
+  {/* contact fome */}
+
+  <div>
+
+  </div>
+ 
  </>
   );
 }
