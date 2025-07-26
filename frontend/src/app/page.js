@@ -5,7 +5,7 @@ export default function Home() {
   {/* Side information */}
 
   <div>
-
+<h1>hello</h1>
   </div>
 
   {/* contact fome */}
